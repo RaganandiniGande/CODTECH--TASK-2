@@ -1,4 +1,4 @@
-Name:Gande Raganandini 
+JinName:Gande Raganandini 
 
 Company: CODTECH IT SOLUTIONS 
 
@@ -27,5 +27,6 @@ Key activities For Generative Adversarial Networks (GANs) :
 4. **Evaluation**: Assess the quality of the generated outputs compared to real data.
 5. **Hyperparameter Tuning**: Adjust model parameters to improve performance.
 6. **Testing**: Validate the model’s effectiveness on new or unseen data.
+
 Technoloies used:
 torch vision 
