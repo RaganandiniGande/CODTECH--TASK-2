@@ -1,4 +1,4 @@
-JinName:Gande Raganandini 
+Name:Gande Raganandini 
 
 Company: CODTECH IT SOLUTIONS 
 
